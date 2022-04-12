@@ -26,10 +26,11 @@
 # 	(use W or S to change selection, press SPACE to confirm)
 # (2+1+1+2+2+1+1 = 10 marks for milestone 3 in total)
 #
-# Link to video demonstration for final submission:
-# - (insert YouTube / MyMedia / other URL here). Make sure we can view it! #
+# Link to video demonstration for final submission ?Youtube):
+# https://youtu.be/cxy1777jbLQ
 # Are you OK with us sharing the video with people outside course staff?
-# - yes / no / yes, and please share this project github link as well! #
+# - yes, and please share this project github link as well! 
+# https://github.com/XXXRJCXXX/MIPS-Game-Project.git
 # Any additional information that the TA needs to know:
 # - (write here, if any)
 # #####################################################################
